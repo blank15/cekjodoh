@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cek Jodoh</string>
+    <string name="masukkan_nama_pasangan_kalian">Masukkan nama Pasangan kalian</string>
+    <string name="cek_kecocokan">CEK KECOCOKAN</string>
+    <string name="cek_kococokan_dengan_pasangan_kalian">Cek Kococokan Dengan Pasangan Kalian</string>
+    <string name="ramalan_jodoh_terbaru">Ramalan Jodoh Terbaru</string>
+</resources>
